@@ -182,7 +182,7 @@ victoriametrics      vmsingle-database                                    Cluste
 make shutdown-k8s
 ```
 
-Ref: VictoriMetrics vs Prometheus vs ..., etc.
+### REF: VictoriMetrics vs Prometheus vs ..., etc.
 
 - valyala.medium.com (all articles related)
 - Benchmark Prometheus vs VictoriMetrics: https://valyala.medium.com/prometheus-vs-victoriametrics-benchmark-on-node-exporter-metrics-4ca29c75590f
