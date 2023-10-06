@@ -184,6 +184,7 @@ make shutdown-k8s
 
 ### REF: VictoriMetrics vs Prometheus vs ..., etc.
 
+- https://github.com/VictoriaMetrics/VictoriaMetrics
 - valyala.medium.com (all articles related)
 - Benchmark Prometheus vs VictoriMetrics: https://valyala.medium.com/prometheus-vs-victoriametrics-benchmark-on-node-exporter-metrics-4ca29c75590f
 - Benchmark Thanos vs VictoriMetrics: https://faun.pub/comparing-thanos-to-victoriametrics-cluster-b193bea1683
