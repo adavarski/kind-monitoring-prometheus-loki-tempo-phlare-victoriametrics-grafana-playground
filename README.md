@@ -185,10 +185,11 @@ make shutdown-k8s
 ### REF: VictoriMetrics vs Prometheus vs ..., etc.
 
 - https://github.com/VictoriaMetrics/VictoriaMetrics
-- valyala.medium.com (all articles related)
+- https://valyala.medium.com (all articles related)
 - Benchmark Prometheus vs VictoriMetrics: https://valyala.medium.com/prometheus-vs-victoriametrics-benchmark-on-node-exporter-metrics-4ca29c75590f
 - Benchmark Thanos vs VictoriMetrics: https://faun.pub/comparing-thanos-to-victoriametrics-cluster-b193bea1683
 - https://faun.pub/victoriametrics-creating-the-best-remote-storage-for-prometheus-5d92d66787ac
 - Benchmark VictoriMetrics vs TimescaleDB vs InfluxDB: https://valyala.medium.com/high-cardinality-tsdb-benchmarks-victoriametrics-vs-timescaledb-vs-influxdb-13e6ee64dd6b
-
+- https://www.youtube.com/watch?v=ZTc1Qxn9aaE
+  
 Credits: https://github.com/zoetrope/k8s-hands-on
