@@ -182,4 +182,12 @@ victoriametrics      vmsingle-database                                    Cluste
 make shutdown-k8s
 ```
 
+Ref: Prometheus vs VictoriMetrics
+
+benchmark Prom vs VictoriMetrics: https://valyala.medium.com/prometheus-vs-victoriametrics-benchmark-on-node-exporter-metrics-4ca29c75590f
+
+Thanos vs VictoriMetrics: https://faun.pub/comparing-thanos-to-victoriametrics-cluster-b193bea1683
+
+https://faun.pub/victoriametrics-creating-the-best-remote-storage-for-prometheus-5d92d66787ac
+
 Credits: https://github.com/zoetrope/k8s-hands-on
