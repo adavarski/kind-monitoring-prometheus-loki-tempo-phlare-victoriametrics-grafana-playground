@@ -1,0 +1,11 @@
+{
+  "postUpdateOptions": [
+    "gomodTidy"
+  ],
+  "argocd": {
+    "fileMatch": [
+      "^manifests\/applications\/.*.yaml$"
+    ]
+  },
+  "automerge": true
+}
